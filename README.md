@@ -69,14 +69,6 @@ Here is an example output of the car and pedestrian detection:
 
 ![Example Output](https://github.com/jubaljacob/Car_Detection/blob/main/car.gif)
 
-## Contributing
-
-Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request. Please make sure to follow the project's coding style and guidelines.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 This project was inspired by the amazing work done by the OpenCV, Mediapipe, and Haar cascades communities. Special thanks to all the contributors and the open-source community for their valuable contributions.
