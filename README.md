@@ -31,7 +31,7 @@ git clone https://github.com/your-username/car-pedestrian-detection.git
 2. Change into the project directory:
 
 ```bash
-cd car-pedestrian-detection
+cd Car_Detection
 ```
 
 3. Install the required dependencies:
