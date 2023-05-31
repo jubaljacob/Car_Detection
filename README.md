@@ -67,7 +67,7 @@ The Haar cascades provide trained models for detecting cars and pedestrians base
 
 Here is an example output of the car and pedestrian detection:
 
-![Example Output](images/output.png)
+![Example Output](images/output.png](https://github.com/jubaljacob/Car_Detection/blob/main/car.gif)
 
 ## Contributing
 
