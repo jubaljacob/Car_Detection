@@ -45,7 +45,7 @@ pip install -r requirements.txt
 To run the car and pedestrian detection script, use the following command:
 
 ```bash
-python detect.py
+python car_ai.py
 ```
 
 The script will open a video stream from your webcam by default. You can modify the `detect.py` file to process a different video file or modify other parameters such as the detection confidence threshold.
